@@ -1,0 +1,7 @@
+{
+    "name": "Validify",
+    "description": "AI-powered startup validation platform helping founders validate business ideas with market AI analysis before building.",
+    "requestFramePermissions": [],
+    "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  }
+  
